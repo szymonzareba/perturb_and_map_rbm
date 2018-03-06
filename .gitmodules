@@ -1,3 +1,7 @@
 [submodule "perturb_and_map_python"]
 	path = perturb_and_map_python
 	url = https://github.com/szymonzareba/perturb_and_map_python
+[submodule "perturb_and_map_caffe"]
+	path = perturb_and_map_caffe
+	url = https://github.com/szymonzareba/perturb_and_map_caffe
+	branch = perturb_and_map
